@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'LLMAPIS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5DE079E54DB242B1984E9BB6ABD23E7C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41E9EF1C13FE411A8B40ACFBE762F468 }}
